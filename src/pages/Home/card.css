@@ -1,0 +1,6 @@
+.rccs__card--front, .rccs__card--unknown, .rccs__card--flipped {
+  width: 365px !important;
+  height: 224px !important;
+  box-shadow: 3px 4px 2px 1px rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+}
